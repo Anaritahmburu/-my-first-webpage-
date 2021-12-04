@@ -9,7 +9,12 @@ h2 {
 }
 p {
   font-family: sans-serif;
+  font-style: oblique;
+  font-optical-sizing: ;
+  color: rgb(11, 4, 17);
+  background-color: darkgrey ;
 }
 ul {
   line-height: 40px;
+  color: blueviolet;
 }
