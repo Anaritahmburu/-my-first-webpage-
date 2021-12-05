@@ -1,0 +1,17 @@
+h1{
+              color: darkred;
+              font-style: bold;
+background-color: cadetblue;
+}
+
+p{
+font-weight: 800;
+font-style: italic <em>;
+color: darkmagenta;
+}
+
+ul{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+line-height: initial;
+inline-size: initial;
+}
